@@ -1,0 +1,16 @@
+th{
+    background-color: lightblue;
+    font-size: 30px;
+}
+td{
+    font-size: 30px;
+}
+tbody>tr:nth-child(even){
+    color: blue;
+    background-color: rgb(186, 207, 207);
+}
+tbody>tr:nth-child(odd){
+    color: brown;
+    font-family: calibri;
+    background-color: rgb(169, 204, 134);
+}

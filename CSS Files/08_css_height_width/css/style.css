@@ -1,0 +1,14 @@
+.box1,.box2{
+    background-color: grey;
+    height: 300px;
+    width: 300px;
+    margin-left: 30%;
+    margin-top: 200px;
+}
+.box{
+    margin-top: -500px;
+    margin-left: 30%;
+}
+h1{
+    text-align: center;
+}
