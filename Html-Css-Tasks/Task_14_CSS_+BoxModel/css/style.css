@@ -1,0 +1,52 @@
+
+.box1{
+    border: 10px solid rgb(255, 165, 0);
+    height: 150px;
+    width: 150px;
+    margin-left: 670px;
+    background-color: red;
+}
+.box2{
+    border: 10px solid black;
+    height: 150px;
+    width: 150px;
+    margin-left: 500px;
+    background-color: red;
+}
+.box3{
+    border: 10px solid rgb(6, 245, 6);
+    height: 150px;
+    width: 150px;
+    margin-left: 670px;
+    background-color: rgb(255, 255, 0);
+}
+.box4{
+    border: 10px solid black;
+    height: 150px;
+    width: 150px;
+    background-color: rgb(255, 255, 0);
+}
+.box5{
+    border: 10px solid rgb(79, 181, 245);
+    height: 150px;
+    width: 150px;
+}
+.bx4{
+    float: right;
+    margin-right: 510px;
+
+}
+.bx5{
+    float:right;
+}
+h1{
+    color: rgb(7, 255, 7);
+}
+.red{
+    /* border-bottom: 5px dotted rgb(6, 245, 6); */
+    color: rgb(245, 82, 82);
+    width: 250px;
+}
+.color{
+    color: rgb(129, 255, 4);
+}
