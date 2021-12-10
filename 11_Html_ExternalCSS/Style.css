@@ -1,0 +1,17 @@
+h1{
+    color: aliceblue;
+    background-color: cornflowerblue;
+    padding: 10px;
+    text-align: center;
+}
+
+.link{
+    color: red;
+    font-size: 24px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgb(211, 210, 210);
+}
+p{
+    font-size: 18px;
+}
